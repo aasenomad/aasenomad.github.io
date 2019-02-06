@@ -1,1 +1,0 @@
-# aasenomad.github.io
