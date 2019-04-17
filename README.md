@@ -1,2 +1,4 @@
 # aasenomad.github.io
-Personal website
+Personal website/portfolio.
+
+GO NOLE!.
