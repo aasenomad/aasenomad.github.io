@@ -75,6 +75,10 @@ small {
 	transition: .5 ease;
 }
 
+.iconMargin{
+	margin-left: 20px;
+}
+
 .social i:hover {
 	color: #03A9F4;
 }
