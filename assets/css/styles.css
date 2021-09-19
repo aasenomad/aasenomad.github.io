@@ -100,5 +100,20 @@ small {
   	width: 200px;
   }
 
+  .blurb {
+	font-size: 25px;
+}
+
+.name {
+	font-size: 5em;
+}
+
+.social {
+	width: 200px;
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+}
 
 }
